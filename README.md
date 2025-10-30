@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[DASE-CogAI.png]" alt="DASE-CogAI" width="150"/>
+  <img src="[./DASE-CogAI.png]" alt="DASE-CogAI" width="150"/>
 </p>
 
 <h1 align="center">🌲 水杉国际中文教育 (Shuishan-ChineseEdu)</h1>
