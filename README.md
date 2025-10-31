@@ -2,7 +2,9 @@
   <img src="DASE-CogAI.png" alt="DASE-CogAI" width="150"/>
 </p>
 
-<h1 align="center">🌲 水杉国际中文教育 (Shuishan-ChineseEdu)</h1>
+<h1 align="center">🌲 水杉中文</h1>
+
+<h1 align="center">Shuishan ChineseEdu</h1>
 
 <p align="center">
   <strong>赋能未来中文教育：更智能、更沉浸、更高效</strong>
@@ -10,11 +12,13 @@
   <strong>Empowering the Future of Chinese Education: Smarter, More Immersive, More Effective</strong>
 </p>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-green" alt="Project Status">
   <img src="https://img.shields.io/badge/Version-1.0.0-blue" alt="Version">
   <img src="https://img.shields.io/badge/License-Proprietary-red" alt="License">
 </p>
+
 
 <p align="center">
   <strong>选择语言 (Select Language):</strong>
@@ -22,11 +26,10 @@
   <a href="#zh-cn"><strong>简体中文</strong></a> | <a href="#en-us"><strong>English</strong></a>
 </p>
 
+
 ---
 
 <a name="zh-cn"></a>
-
-## 🌲 水杉国际中文教育
 
 ### 🚀 关于我们
 
@@ -40,182 +43,457 @@
 * **🏞️ 场景沉浸 (Immersive Scenarios):** 强调“用中学”，提供基于真实生活、学术和职业场景的互动式学习。
 * **🌐 生态互联 (Connected Ecosystem):** 打通“学-练-测-评-教”所有环节，为学习者、教师和机构提供一体化解决方案。
 
-### 🛍️ 我们的产品矩阵 (Our Product Matrix)
+[![中文](https://img.shields.io/badge/语言-中文-red.svg)](./README_zh.md)
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](./README.md)
 
-我们自豪地推出“水杉”系列产品，专为国际中文教育的多元需求而设计：
+### 🔗 Links
 
-#### 1. 水杉中文 (Shuishan Chinese) - 智能学习平台
-* **产品定位:** 核心学习者应用 (APP/H5)
-* **简介:** 这是我们面向C端学习者的旗舰产品。它不仅仅是一个课程APP，更是一个口袋里的AI中文导师。平台集成了游戏化闯关、AI口语对练、HSK备考等功能，让学习者可以随时随地高效学习。
-* **核心功能:**
-    * 📱 **移动优先:** 支持iOS、Android和H5多端同步。
-    * 🧠 **AI个性化学习路径:** 基于知识追踪模型，动态调整学习内容。
-    * 🗣️ **AI口语伙伴:** 7x24小时在线的AI语伴，提供即时发音纠正和多轮情景对话。
-    * 🕹️ **游戏化激励:** 通过积分、徽章和排行榜激发学习动力。
-    * 📚 **HSK/YCT备考库:** 全真模拟试题与AI精讲。
-* **[查看产品截图/演示视频 (Image/Demo of Shuishan Chinese App)]**
-
-#### 2. 水杉学堂 (Shuishan Classroom) - 智能在线教学平台
-* **产品定位:** 教师与机构的B端解决方案
-* **简介:** “水杉学堂”是专为中文教师和教育机构设计的SaaS平台。它提供从招生、排课、智能备课到在线直播授课、课后作业批改及学情分析的全流程服务。
-* **核心功能:**
-    * 🖥️ **互动直播教室:** 集成互动白板、课件共享、分组讨论和课堂小游戏。
-    * 🧑‍🏫 **AI助教:** 实时课堂行为分析、自动答疑、智能生成课堂报告。
-    * 📖 **智能备课中心:** 海量教学资源库，AI一键生成教案和配套练习。
-    * 📊 **学情数据看板:** 多维度追踪学生学习进度、活跃度和薄弱点。
-* **[查看平台截图 (Image of Shuishan Classroom Dashboard)]**
-
-#### 3. 水杉规划师 (Shuishan Planner) - 场景式学习规划平台
-* **产品定位:** 学习路径与课程设计 (PaaS / To B)
-* **简介:** 这是“水杉”生态的大脑。它解耦了学习目标与学习资源，允许教师或AI为学生（特别是中高级学习者）构建高度定制化的学习蓝图。例如，为“来华留学生”或“商务人士”规划专属的学习路径。
-* **核心功能:**
-    * 🗺️ **可视化路径设计:** 拖拽式构建基于“场景-任务-知识点”的学习地图。
-    * 📦 **模块化场景库:** 涵盖生活、学术、商务、旅游等数百个真实交际场景。
-    * 🔗 **资源智能关联:** 自动将场景任务链接到“水杉中文”的微课、练习和“水杉视界”的VR内容。
-    * 📈 **学习成果追踪:** 基于任务完成度评估学习效果，而非仅仅是考分。
-
-#### 4. 水杉测评 (Shuishan Assess) - AI口语与写作测评系统
-* **产品定位:** 独立的AI测评服务 (API / SDK)
-* **简介:** 提供高精度的中文口语和写作自动评估服务。本系统可独立部署，也可通过API/SDK无缝集成到任何第三方教育平台中，提供标准化、自动化的测评能力。
-* **核心功能:**
-    * 🎤 **AI口语测评:** 多维度（流利度、准确度、完整度、声韵调）打分和诊断。
-    * ✍️ **AI作文批改:** 语法纠错、用词建议、逻辑结构分析和智能评分。
-    * 🏷️ **对标HSK/YCT:** 测评结果可对标国际中文等级标准。
-
-#### 5. 水杉视界 (Shuishan Vista) - 沉浸式文化体验平台
-* **产品定位:** VR / AR 文化与语言学习
-* **简介:** 语言学习离不开文化沉浸。“水杉视界”利用VR/AR技术，将中国真实的生活场景（如点餐、问路、逛博物馆）数字化，为学习者提供“身临其境”的语言实践环境。
-* **核心功能:**
-    * 🕶️ **VR实景漫游:** 虚拟游览北京、上海等城市，并在场景中完成交际任务。
-    * 🎨 **AR文化互动:** 通过AR技术让汉字、文物“活”起来。
-    * 🤝 **多人虚拟课堂:** 支持多位学习者在同一虚拟空间中进行角色扮演和互动。
-
-#### 6. 水杉智库 (Shuishan Brain) - 中文教育知识图谱
-* **产品定位:** 驱动所有产品的底层数据与算法
-* **简介:** 这是水杉系列产品的技术基石。我们构建了规模庞大、结构精良的国际中文教育知识图谱（KG），以及一系列核心算法模型（如BKT, DKT, NLP模型）。
-* **核心功能:**
-    * 🧠 **中文知识图谱:** 包含字、词、语法点、HSK考点及其相互关系。
-    * 📈 **学习者画像模型:** 实时追踪和预测学习者的知识掌握状态。
-    * 🤖 **教育NLP引擎:** 专为中文学习者优化的文本纠错、语义理解、相似度计算模型。
+- 🌐 Official Website / GitHub Repo: [https://github.com/DASE-CogAI/Shuishan-ChineseEdu](https://github.com/DASE-CogAI/Shuishan-ChineseEdu)
 
 ---
 
-### 🗺️ 发展蓝图 (Roadmap)
+## 🌏 产品简介
 
-* **[Q4 2025]**
-    * ✅ "水杉中文" v1.0 正式上线。
-    * ✅ "水杉学堂" 启动内测。
-* **[2026]**
-    * 🚀 "水杉规划师" 与 "水杉测评" 发布。
-    * 🚀 拓展B端市场，与50家海外中文教育机构达成合作。
-* **[2027]**
-    * 🚀 推出 "水杉视界" VR内容。
-    * 🚀 "水杉智库" 开放部分API服务。
+### 💡 背景与愿景 
 
-### 🤝 如何联系我们 (Get in Touch)
+在全球“中文热”持续升温的背景下，在线学习为国际中文教育带来了前所未有的机遇。当代学习者愈发青睐“做中学”的模式，期待通过碎片化、高频率的练习来提升语言运用能力。   
 
-我们始终在寻找热情的合作伙伴、测试用户和潜在贡献者！
+### 🧩 教育挑战 
 
-* **📧 商务合作:** `[contact@shuishan-edu.com]` (请替换为您的邮箱)
-* **🐞 问题反馈:** 请通过 GitHub Issues 提交Bug或功能建议。
-* **📱 微信公众号:**
-    <br/>
-    <img src="[此处替换为您的微信公众号二维码图片链接]" alt="微信公众号" width="150"/>
+然而，如何让零散、片段化的学习活动构建起系统性、完整的知识体系，成为当代在线教育平台的核心挑战。  
 
-### 📜 许可 (License)
+### 🤝 跨界合作与平台诞生 
 
-Copyright (c) 2025 **[您的实验室/机构名称]**. All Rights Reserved.
-(本项目产品采用商业许可，代码库可能包含部分开源组件。)
+直面这一痛点，华东师范大学数据科学与工程学院与国际汉语文化学院跨界合作，倾力打造了 **“水杉中文（Shuishan ChineseEdu）”** 平台。  
 
-<p align="right"><a href="#top">🔼 返回顶部</a></p>
+平台以 **前沿人工智能技术（AI）** 为内核，致力于打造一个 **以学习者为中心、实现高效认知建构** 的国际中文智慧学习系统，推动国际中文教育迈向 **智能化、个性化与高效化** 的新阶段。  
+
+### 🎯 核心使命 
+
+“水杉中文”的核心使命在于破解“碎片化学习”与“系统性构建”之间的深层矛盾，致力于让每一次零散的碎片化学习都成为构建坚实语言大厦的基石。  
+
+### 🧠 创新学习模式 
+
+平台以“系统性知识建构”为目标，探索多样化的碎片化学习新模式：  
+
+- 🏞️ **场景沙盒 / Scenario Sandbox**：在真实语境中进行语言体验与任务式学习  
+
+- 🎯 **主题闯关 / Thematic Challenges**：通过分级任务逐步掌握语言知识与文化内容  
+
+- 🤖 **智能推送 / Intelligent Recommendation**：基于学习行为数据动态推送个性化学习资源 
+
+### 🔍 技术核心 
+
+一方面，依托 **AIGC 技术** 与 **大规模国际中文教育知识图谱**，平台能够动态生成多模态中文学习资源； 
+
+另一方面，为解决“学需”和“供给”不匹配的问题，平台打造了 **自适应学习引擎**，汇聚全域学习行为数据，实现 **细粒度学习者画像** 与 **动态学情评估**；  
+
+最终为每位中文学习者动态推送最适配的学习资源与路径， 确保内容的相关性与体系性，真正提升碎片化学习的实效与深度。 
 
 ---
----
+
+## 🧩 产品内容 
+
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/1.1.png" alt="DASE-CogAI" width="150"/>
+  </span>
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/1.2.png" alt="DASE-CogAI" width="150"/>
+  </span>
+</p>
+<p align="center"><b>图1. 水杉中文 - 封面与首页</b></p>
+
+
+### 🏞️ 场景沙盒：定制你的沉浸式中文世界  
+
+告别千篇一律的课本对话，**“水杉中文”** 通过「场景沙盒」为您构建高度定制、可自由探索的中文应用场景。  
+无论是模拟在咖啡馆点单、街边问路，还是在市场讨价还价，您都可以在定制化语境中进行 **“Vibe Language Learning”**。  
+
+学习引擎会根据您自定义的场景，动态生成合理的学习路径，并结合学习兴趣与语言水平，自适应调整学习难度。  
+让您不仅“学中文”，更能“用中文”去体验与思考，实现从知识积累到能力养成的关键跃迁。
+
+
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/2.1.png" alt="DASE-CogAI" width="150"/>
+  </span>
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/2.2.png" alt="DASE-CogAI" width="150"/>
+    <span style="display:inline-block; margin:0 10px;">
+    <img src="image/2.3.png" alt="DASE-CogAI" width="150"/>
+  </span>
+</p>
+<p align="center"><b>图2. 场景沙盒-场景定制</b></p>
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/3.1.png" alt="DASE-CogAI" width="150"/>
+  </span>
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/3.2.png" alt="DASE-CogAI" width="150"/>
+    <span style="display:inline-block; margin:0 10px;">
+    <img src="image/3.3.png" alt="DASE-CogAI" width="150"/>
+  </span>
+</p>
+<p align="center"><b>图3. 场景沙盒-学习路径动态生成</b></p>
+
+### 🎯 主题闯关：在兴趣牵引下高效进阶  
+
+**“水杉中文”** 以引人入胜的主题闯关模式，重塑游戏化、激励性的中文学习路径。  
+您将跟随精心设计的剧情线，逐级解锁与 **生活、旅行、文化、科技** 等热门领域相关的内容关卡。  
+
+多模态内容生成技术会持续为您创造新鲜的学习素材，而 **自适应学习引擎** 则像一位贴身教练：  
+
+- 📈 根据学习目标（时长、技能偏好等）动态适配内容；  
+- 💬 在遇到瓶颈时提供精准提示；  
+- 🚀 学有余力时智能推荐更具挑战性的主题。  
+
+让整个学习旅程始终保持 **趣味性、高效性、无冗余**。
+
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/4.1.png" alt="DASE-CogAI" width="150"/>
+  </span>
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/4.2.png" alt="DASE-CogAI" width="150"/>
+    <span style="display:inline-block; margin:0 10px;">
+    <img src="image/4.3.png" alt="DASE-CogAI" width="150"/>
+  </span>
+</p>
+<p align="center"><b>图4. 主题闯关-逐级主题化中文学习路径</b></p>
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/5.1.png" alt="DASE-CogAI" width="150"/>
+  </span>
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/5.2.png" alt="DASE-CogAI" width="150"/>
+    <span style="display:inline-block; margin:0 10px;">
+    <img src="image/5.3.png" alt="DASE-CogAI" width="150"/>
+  </span>
+     <span style="display:inline-block; margin:0 10px;">
+    <img src="image/5.4.png" alt="DASE-CogAI" width="150"/>
+  </span>
+</p>
+<p align="center"><b>图5. 主题闯关-碎片化词汇练习、多技能习题练习 </b></p>
+    
+### 🧰 智辅工具：即插即用的语言学习利器  
+
+**“水杉中文”** 持续推出一系列 **智辅工具集（Smart Toolkit）**， 将复杂的 AI 能力封装为轻量、易用的模块，让最前沿的语言教育科技触手可及。  
+
+您可以像使用瑞士军刀一样，按需调用各类功能，精准解决学习痛点。目前已开放的工具包括：
+
+- 🧠 **知识图谱**：以自然语言查询任意词语或文化点的网络化知识关联，如同拥有一个“可视化中文大脑”，帮助您系统理解知识体系。  
+
+- ✏️ **文本改写**：输入任意等级的句子，一键完成分词、分析与难度改写，让同一文本自动适配不同水平的学习者。  
+
+- 📝 **作文批改**：支持手写作文图片输入，从书写规范、用词精准到逻辑连贯性多维评估，并在原图上可视化反馈修改建议。  
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/6.1.png" alt="DASE-CogAI" width="150"/>
+  </span>
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/6.2.png" alt="DASE-CogAI" width="150"/>
+    <span style="display:inline-block; margin:0 10px;">
+    <img src="image/6.3.png" alt="DASE-CogAI" width="150"/>
+  </span>
+</p>
+<p align="center"><b>图6. 主题闯关-碎片化词汇练习、多技能习题练习 </b></p>
+
+### ⚙️ 自适应学习引擎：数据驱动的专属学习管家  
+
+作为 **“水杉中文”** 的智慧核心，自适应学习引擎通过 **全域数据追踪、学情评估与个性化推荐**， 为每位用户构建专属的 **自适应学习闭环**。
+
+#### 📊 全域行为数据追踪  
+
+平台持续采集您在「学、练、用」各环节的行为数据，进行融合分析与特征建模，形成完整的学习历程画像，为后续学习决策注入精准动力。
+
+#### 🧩 多粒度学情评估  
+
+依托大规模知识图谱，实现从 **字词掌握 → 主题知识 → 综合能力** 的多层次评估， 并通过可视化看板呈现，让学习者与系统都能精准定位薄弱环节。
+
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/7.1.png" alt="DASE-CogAI" width="150"/>
+  </span>
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/7.2.png" alt="DASE-CogAI" width="150"/>
+    <span style="display:inline-block; margin:0 10px;">
+    <img src="image/7.3.png" alt="DASE-CogAI" width="150"/>
+  </span>
+</p>
+<p align="center"><b>图7. 学习引擎-多粒度学情评估</b></p>
+    
+#### 💡 个性化学习推荐  
+
+基于动态学情与兴趣偏好，引擎会动态重构引擎会实时调整您的学习内容与路径
+
+- 推荐主题闯关任务  
+- 生成专项练习集  
+- 引导进入场景沙盒巩固学习  
+
+确保每个学习内容都精准匹配您的学习状态与目标，实现 **高效、智能、无冗余的学习体验**。
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/8.1.png" alt="DASE-CogAI" width="150"/>
+  </span>
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/8.2.png" alt="DASE-CogAI" width="150"/>
+    <span style="display:inline-block; margin:0 10px;">
+    <img src="image/8.3.png" alt="DASE-CogAI" width="150"/>
+  </span>
+</p>
+<p align="center"><b>图8. 学习引擎-全平台个性化推荐服务</b></p>
+    
+## 🖥️ 封面页
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/9.png" alt="DASE-CogAI" width="150"/>
+  </span>
+</p>
+
+## 🎬 产品视频
+
+## 🌿 项目
+
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/10.png" alt="DASE-CogAI" width="150"/>
+  </span>
+</p>
+
+# 英文版本
 
 <a name="en-us"></a>
 
-## 🌲 Shuishan International Chinese Education
-
 ### 🚀 About Us
 
-Welcome to Shuishan-ChineseEdu! We are a dedicated team from **[Your Lab/Organization Name]** focused on integrating cutting-edge
-Artificial Intelligence (such as NLP, Knowledge Graphs, and Learner Modeling) with innovative pedagogy. Our goal is to build an intelligent, efficient, and culturally immersive teaching and learning ecosystem for Chinese learners and teachers worldwide.
+Welcome to the **Shuishan ChineseEdu** initiative — a project under **DASE-CogAI**, dedicated to integrating cutting-edge **artificial intelligence technologies** (such as **Natural Language Processing**, **Knowledge Graphs**, and **Learner Modeling**) with innovative pedagogical methods.
+ Our goal is to create an **intelligent, efficient, and culturally immersive learning ecosystem** for Chinese learners and educators worldwide.
 
-Our mission is to break down language barriers, making learning Chinese more accessible, engaging, and personalized than ever before.
+Our mission is to **break the barriers of language learning**, making Chinese acquisition easier, more engaging, and deeply personalized than ever before.
 
-### ✨ Core Philosophy
+### ✨Core Philosophy
 
-* **🤖 AI-Powered:** Leveraging AI for adaptive learning paths, intelligent pronunciation correction, AI tutors, and personalized content recommendations.
-* **🏞️ Immersive Scenarios:** Emphasizing "learning by doing" by providing interactive learning based on real-life, academic, and professional scenarios.
-* **🌐 Connected Ecosystem:** Connecting all aspects of "learning, practice, testing, assessment, and teaching" to provide an integrated solution for learners, teachers, and institutions.
+* **🤖 AI-Powered:**
+   Leverage AI to enable adaptive learning paths, intelligent pronunciation correction, AI tutoring, and personalized content recommendations.
+* **🏞️ Immersive Scenarios:**
+   Emphasize *learning by using*, offering interactive learning experiences grounded in real-life, academic, and professional contexts.
+* **🌐 Connected Ecosystem:**
+   Integrate all stages of learning — *study, practice, assessment, evaluation, and instruction* — to deliver a unified, data-driven solution for learners, teachers, and institutions alike.
 
-### 🛍️ Our Product Matrix
+[![中文](https://img.shields.io/badge/语言-中文-red.svg)](./README_zh.md)
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](./README.md)
 
-We are proud to introduce the "Shuishan (水杉)" series, designed to meet the diverse needs of international Chinese education:
+### 🔗 Links
 
-#### 1. Shuishan Chinese - Smart Learning Platform
-* **Positioning:** Core Learner Application (APP/H5)
-* **Description:** Our flagship B2C product. It's more than a course app; it's an AI-powered Chinese tutor in your pocket. It integrates gamified modules, AI speaking practice, HSK preparation, and more, allowing learners to study effectively anytime, anywhere.
-* **Core Features:**
-    * 📱 **Mobile-First:** Supports iOS, Android, and H5 with data synchronization.
-    * 🧠 **AI Personalized Learning Path:** Dynamically adjusts content based on knowledge tracing models.
-    * 🗣️ **AI Speaking Partner:** A 24/7 AI partner for instant pronunciation feedback and multi-turn situational dialogues.
-    * 🕹️ **Gamification & Motivation:** Points, badges, and leaderboards to boost motivation.
-    * 📚 **HSK/YCT Prep Library:** Full mock exams with AI-driven explanations.
-* **[View Product Screenshot/Demo (Image/Demo of Shuishan Chinese App)]**
+- 🌐 Official Website / GitHub Repo: [https://github.com/DASE-CogAI/Shuishan-ChineseEdu](https://github.com/DASE-CogAI/Shuishan-ChineseEdu)
 
-#### 2. Shuishan Classroom - Smart Online Teaching Platform
-* **Positioning:** B2B Solution for Teachers & Institutions
-* **Description:** "Shuishan Classroom" is a SaaS platform designed for CSL (Chinese as a Second Language) teachers and institutions. It provides end-to-end services from student enrollment, scheduling, and smart lesson prep to live online teaching, automated homework grading, and learning analytics.
-* **Core Features:**
-    * 🖥️ **Interactive Live Classroom:** Integrated whiteboard, screen sharing, breakout rooms, and in-class games.
-    * 🧑‍🏫 **AI Teaching Assistant:** Real-time analysis of classroom behavior, automated Q&A, and smart generation of post-class reports.
-    * 📖 **Smart Lesson Prep Center:** A massive resource library with AI-powered generation of lesson plans and exercises.
-    * 📊 **Learning Analytics Dashboard:** Tracks student progress, engagement, and weak points across multiple dimensions.
-* **[View Platform Screenshot (Image of Shuishan Classroom Dashboard)]**
+---
+## 🌏 Product Introduction
 
-#### 3. Shuishan Planner - Scenario-Based Learning Platform
-* **Positioning:** Learning Path & Curriculum Design (PaaS / To B)
-* **Description:** This is the "brain" of the Shuishan ecosystem. It decouples learning objectives from resources, allowing teachers (or AI) to build highly customized learning blueprints for students, especially intermediate to advanced learners (e.g., "International Students in China" or "Business Professionals").
-* **Core Features:**
-    * 🗺️ **Visual Path Design:** Drag-and-drop interface to build learning maps based on "Scenario-Task-Knowledge Point."
-    * 📦 **Modular Scenario Library:** Hundreds of real-world communicative scenarios (life, academics, business, travel).
-    * 🔗 **Smart ResourceLinking:** Automatically links tasks to micro-lessons in "Shuishan Chinese" and VR content in "Shuishan Vista."
-    * 📈 **Competency-Based Tracking:** Assesses learning outcomes based on task completion, not just test scores.
+### 💡  Background & Vision
 
-#### 4. Shuishan Assess - AI Speaking & Writing Assessment System
-* **Positioning:** Standalone AI Assessment Service (API / SDK)
-* **Description:** Provides high-precision automated assessment for Chinese speaking and writing. This system can be deployed independently or seamlessly integrated into any third-party educational platform via API/SDK.
-* **Core Features:**
-    * 🎤 **AI Speaking Assessment:** Multi-dimensional scoring (fluency, accuracy, integrity, pronunciation) and diagnostics.
-    * ✍️ **AI Writing Correction:** Grammar error correction, vocabulary suggestions, logical structure analysis, and smart scoring.
-    * 🏷️ **HSK/YCT Alignment:** Assessment results are benchmarked against international CSL standards.
 
-#### 5. Shuishan Vista - Immersive Cultural Experience Platform
-* **Positioning:** VR / AR Cultural & Language Learning
-* **Description:** Language learning is inseparable from cultural immersion. "Shuishan Vista" uses VR/AR technology to digitize real Chinese life scenarios (e.g., ordering food, asking for directions, visiting a museum), providing learners with an "immersive" environment for language practice.
-* **Core Features:**
-    * 🕶️ **VR Scene Exploration:** Virtually tour Chinese cities and complete communicative tasks within the scenes.
-    * 🎨 **AR Cultural Interaction:** Brings Chinese characters, cultural relics, and concepts to life via Augmented Reality.
-    * 🤝 **Multiplayer Virtual Classroom:** Supports multiple learners role-playing and interacting in the same virtual space.
+Amid the global surge of enthusiasm for learning Chinese, online education has created unprecedented opportunities for international Chinese language learning. Modern learners increasingly favor a “learning by doing” approach, seeking fragmented yet frequent exercises to enhance language proficiency.
 
-#### 6. Shuishan Brain - CSL Knowledge Graph
-* **Positioning:** Underlying Data & Algorithms
-* **Description:** The technical foundation for all Shuishan products. We have built a large-scale, well-structured Knowledge Graph (KG) for international Chinese education, along with a suite of core algorithms (e.g., BKT, DKT, NLP models).
-* **Core Features:**
-    * 🧠 **Chinese Knowledge Graph:** Includes characters, words, grammar points, HSK items, and their complex interrelations.
-    * 📈 **Learner Profile Model:** Tracks and predicts the learner's knowledge mastery in real-time.
-    * 🤖 **Educational NLP Engine:** NLP models (text correction, semantic understanding) optimized specifically for CSL learners.
+
+### 🧩  Educational Challenge
+
+However, how to transform scattered and piecemeal learning activities into a systematic and coherent learner cognitive structure has become a core challenge for modern online education platforms.
+
+### 🤝Cross-disciplinary Collaboration
+
+To address this challenge, the **School of Data Science and Engineering** and the **School of International Chinese Studies** at **East China Normal University** have jointly developed the **“Shuishan ChineseEdu”** platform.
+
+Powered by cutting-edge **AI technologies**, the platform aims to build a **learner-centered, cognitively efficient intelligent system** for international Chinese education, leading the field toward **intelligent, personalized, and efficient learning**.
+
+
+### 🎯  Core Mission
+
+The core mission of **Shuishan ChineseEdu** is to resolve the tension between **fragmented learning** and **systematic knowledge construction**,  ensuring that every micro-learning activity becomes a solid building block for language mastery.
+
+
+### 🧠 Innovative Learning Paradigms
+
+ The platform explores new micro-learning paradigms aimed at **systematic knowledge construction**, including:
+
+- 🏞️ **Scenario Sandbox**：Engage in contextualized and task-based learning through immersive scenes.
+
+- 🎯 **Thematic Challenges**：Master linguistic and cultural knowledge through progressive thematic challenges.
+
+- 🤖 **Intelligent Recommendation**：Dynamically recommend personalized content based on learning behavior data.
+
+
+### 🔍 Technological Core
+
+On one hand, leveraging **AIGC technology** and a **large-scale knowledge graph** of international Chinese education,  the platform can dynamically generate **multimodal Chinese learning materials**.
+
+On the other hand, to address the mismatch between **learning needs** and **content supply**,  the platform integrates an **adaptive learning engine** that aggregates global learning data to build **fine-grained learner profiles** and **real-time learning assessments**.q
+
+This enables **personalized, adaptive learning paths** for each learner, ensuring relevance, structure, and true learning efficiency.
 
 ---
 
-### 🗺️ Roadmap
+## 🧩 Product Content 
 
-* **[Q4 2025]**
-    * ✅ "Shuishan Chinese" v1.0 official launch.
-    * ✅ "Shuishan Classroom" beta testing begins.
-* **[2026]**
-    * 🚀 Launch "Shuishan Planner" and "Shuishan Assess."
-    * 🚀 Expand into the B2B market, targeting 50+ partnerships with overseas Chinese education institutions.
-* **[2027]**
-    * 🚀 Release "Shuishan Vista" VR content
+
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/1.1.png" alt="DASE-CogAI" width="150"/>
+  </span>
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/1.2.png" alt="DASE-CogAI" width="150"/>
+  </span>
+</p>
+<p align="center"><b>Figure 1. Shuishan ChineseEdu - Cover and Homepage</b></p>
+
+### 🏞️ **Scenario Sandbox: Customize Your Immersive Chinese Learning**  
+
+Say goodbye to repetitive textbook dialogues—**Shuishan ChineseEdu** builds a highly customized, freely explorable Chinese language environment through its Scenario Sandbox feature. Whether you’re ordering coffee at a café, asking for directions on the street, or bargaining at a local market, you can engage in **Vibe Language Learning** within authentic, personalized contexts.   
+
+Our learning engine can dynamically generate appropriate learning paths based on your customized scenarios, while adaptively adjusting difficulty levels in line with your interests and language proficiency. In this way, you’re not just learning Chinese—you’re using Chinese to experience, explore, and think, achieving the crucial leap from knowledge accumulation to real communicative competence.
+
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/2.1.png" alt="DASE-CogAI" width="150"/>
+  </span>
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/2.2.png" alt="DASE-CogAI" width="150"/>
+    <span style="display:inline-block; margin:0 10px;">
+    <img src="image/2.3.png" alt="DASE-CogAI" width="150"/>
+  </span>
+</p>
+<p align="center"><b>Figure 2. Scenario Sandbox – Scene Customization</b></p>
+    
+### 🎯 **Thematic Challenges: Advancing Efficiently Through Interest-Driven Learning**  
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/3.1.png" alt="DASE-CogAI" width="150"/>
+  </span>
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/3.2.png" alt="DASE-CogAI" width="150"/>
+    <span style="display:inline-block; margin:0 10px;">
+    <img src="image/3.3.png" alt="DASE-CogAI" width="150"/>
+  </span>
+</p>
+<p align="center"><b>Figure 3. Scenario Sandbox – Dynamic Learning Path Generation</b></p>
+
+**Shuishan ChineseEdu** redefines gamified and motivational Chinese learning through its engaging thematic challenge mode, crafting a dynamic and immersive pathway for progress. As you follow a carefully designed storyline, you’ll unlock levels closely connected to popular fields such as **daily life, travel, culture, and technology**.  
+
+More importantly, your learning path is never static. With multimodal content generation, the platform continuously creates fresh learning materials tailored to your evolving needs. Meanwhile, the **adaptive learning engine** acts as your personal coach
+
+- 📈 perceiving your learning status in real time and dynamically adjusting content based on your customized goals, such as study duration and preferred language skills； 
+- 💬 When you hit a plateau, the system provides precise hints;   
+- 🚀 when you’re ready for more, it intelligently recommends more challenging levels or new topics of interest.   
+
+This ensures your learning journey remains engaging, efficient, and free of redundancy, always guided by your **curiosity and motivation.**
+
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/4.1.png" alt="DASE-CogAI" width="150"/>
+  </span>
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/4.2.png" alt="DASE-CogAI" width="150"/>
+    <span style="display:inline-block; margin:0 10px;">
+    <img src="image/4.3.png" alt="DASE-CogAI" width="150"/>
+  </span>
+</p>
+<p align="center"><b>Figure 4. Thematic Missions – Step-by-Step Thematic Chinese Learning Path</b></p>
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/5.1.png" alt="DASE-CogAI" width="150"/>
+  </span>
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/5.2.png" alt="DASE-CogAI" width="150"/>
+    <span style="display:inline-block; margin:0 10px;">
+    <img src="image/5.3.png" alt="DASE-CogAI" width="150"/>
+  </span>
+     <span style="display:inline-block; margin:0 10px;">
+    <img src="image/5.4.png" alt="DASE-CogAI" width="150"/>
+  </span>
+</p>
+<p align="center"><b>Figure 5. Thematic Missions – Fragmented Vocabulary Practice & Multi-Skill Exercises</b></p>
+
+    ### 🧰 Intelligent Learning Tools: Plug-and-Play Assistants for Chinese Leaning
+
+**Shuishan ChineseEdu** continuously launches a suite of **intelligent learning tools**, encapsulating complex AI capabilities into lightweight, easy-to-use functional modules. Like a Swiss Army knife for language learning, these tools can be flexibly applied to tackle specific challenges, making cutting-edge language education technology truly accessible.  Currently, the following intelligent tools are available:
+
+- 🧠**Knowledge Graph**：Supports natural language search for any word or cultural concept, revealing web-like knowledge connections. It’s like having a visualized Chinese brain, helping you understand the systematic structure of Chinese knowledge.
+
+- ✏️ **Text Rewritin**： By inputting Chinese sentences of different levels, you can perform one-click word segmentation, text analysis, and difficulty adjustment, automatically adapting the same passage to suit learners of varying proficiency levels.
+
+- 📝 **Essay Evaluation**：Going beyond basic grammar correction, this tool takes handwritten composition images as input and provides multi-dimensional feedback—from handwriting accuracy and word choice precision to logical coherence. It even delivers visual, on-image feedback, offering directly aligned revision suggestions.
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/6.1.png" alt="DASE-CogAI" width="150"/>
+  </span>
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/6.2.png" alt="DASE-CogAI" width="150"/>
+    <span style="display:inline-block; margin:0 10px;">
+    <img src="image/6.3.png" alt="DASE-CogAI" width="150"/>
+  </span>
+</p>
+<p align="center"><b>Figure 6. Smart Learning Tools – Text Rewriting & Essay Review</b></p>
+
+
+### ⚙️Adaptive Learning Engine: Your Data-Driven Personal Learning Concierge
+
+The adaptive learning engine is the intelligent core of **Shuishan ChineseEdu**. By integrating **comprehensive behavior tracking**, **multi-granularity learning assessment**, and **personalized learning recommendations**, it constructs a **data-driven adaptive learning ecosystem** designed just for you.
+
+#### 📊**Comprehensive Behavior Tracking**
+
+The platform continuously collects data from all your learning activities—study, practice, and application—and performs integrated analysis across these multi-source datasets. This process generates a coherent portrait of your learning journey, providing the engine with fresh, behavior-driven insights that fuel adaptive optimization.
+
+#### 🧩 **Multi-Granularity Learning Assessment**
+
+Powered by a large-scale knowledge graph, the engine conducts multi-layered diagnostic analysis—from mastery of individual characters and words, to thematic knowledge application, and ultimately to overall language competence. The results are displayed through a visualized dashboard, enabling both you and the system to precisely identify areas of weakness and target them efficiently.
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/7.1.png" alt="DASE-CogAI" width="150"/>
+  </span>
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/7.2.png" alt="DASE-CogAI" width="150"/>
+    <span style="display:inline-block; margin:0 10px;">
+    <img src="image/7.3.png" alt="DASE-CogAI" width="150"/>
+  </span>
+</p>
+<p align="center"><b>Figure 7. Learning Engine – Multi-Granularity Learning Assessment</b></p>
+    
+#### 💡 **Personalized Learning Recommendations**
+
+Based on your **real-time learning progress** and **interest preferences**, the engine dynamically reconstructs and adjusts your learning content and pathway:
+
+- Whether it’s recommending a set of **thematic challenge exercises**, generating a **targeted practice set**
+- or guiding you into the **Scenario Sandbox** for customized contextual reinforcement
+
+the system ensures that every piece of content you encounter precisely aligns with your learning profile and interests, eliminating aimless repetition and redundancy, and enabling truly **efficient, goal-oriented learning**
+
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/8.1.png" alt="DASE-CogAI" width="150"/>
+  </span>
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/8.2.png" alt="DASE-CogAI" width="150"/>
+    <span style="display:inline-block; margin:0 10px;">
+    <img src="image/8.3.png" alt="DASE-CogAI" width="150"/>
+  </span>
+</p>
+<p align="center"><b>Figure 8. Learning Engine – Cross-Platform Personalized Recommendation Service</b></p>
+    
+## 🖥️ Cover Page
+
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/9.png" alt="DASE-CogAI" width="150"/>
+  </span>
+</p>
+
+## 🎬 Product Video
+
+## 🌿 Project Logo
+
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/10.png" alt="DASE-CogAI" width="150"/>
+  </span>
+</p>
