@@ -2,7 +2,7 @@
   <img src="DASE-CogAI.png" alt="DASE-CogAI" width="150"/>
 </p>
 
-<h1 align="center">🌲 水杉国际中文教育 (Shuishan-ChineseEdu)</h1>
+<h1 align="center">🌲 水杉中文 (Shuishan ChineseEdu)</h1>
 
 <p align="center">
   <strong>赋能未来中文教育：更智能、更沉浸、更高效</strong>
