@@ -6,13 +6,6 @@
 
 <h1 align="center">Shuishan ChineseEdu</h1>
 
-<p align="center">
-  <strong>赋能未来中文教育：更智能、更沉浸、更高效</strong>
-  <br />
-  <strong>Empowering the Future of Chinese Education: Smarter, More Immersive, More Effective</strong>
-</p>
-
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-green" alt="Project Status">
@@ -24,7 +17,8 @@
 <p align="center">
   <strong>选择语言 (Select Language):</strong>
   <br />
-  <a href="#zh-cn"><strong>简体中文</strong></a> | <a href="#en-us"><strong>English</strong></a>
+  <a href="🔗 官网地址"><strong>简体中文</strong></a> | 
+  <a href="🔗 Official Website"><strong>English</strong></a>
 </p>
 
 
@@ -32,24 +26,10 @@
 
 <a name="zh-cn"></a>
 
-### 🚀 关于我们
 
-欢迎来到水杉国际中文教育 (Shuishan-ChineseEdu) 项目！我们是隶属于 **DASE-CogAI** 的一个专注团队，致力于融合前沿的人工智能技术（如自然语言处理、知识图谱、学习者建模）与创新的教学法，为全球中文学习者和教师打造一个智能、高效、且富有文化沉浸感的教与学生态系统。
+## 🔗 官网地址
 
-我们的使命是打破语言学习的壁AR，让中文学习变得前所未有的轻松、有趣和个性化。
-
-### ✨ 核心理念
-
-* **🤖 AI驱动 (AI-Powered):** 利用AI实现自适应学习路径、智能纠音、AI助教和个性化内容推荐。
-* **🏞️ 场景沉浸 (Immersive Scenarios):** 强调“用中学”，提供基于真实生活、学术和职业场景的互动式学习。
-* **🌐 生态互联 (Connected Ecosystem):** 打通“学-练-测-评-教”所有环节，为学习者、教师和机构提供一体化解决方案。
-
-[![中文](https://img.shields.io/badge/语言-中文-red.svg)](./README_zh.md)
-[![English](https://img.shields.io/badge/lang-English-blue.svg)](./README.md)
-
-### 🔗 Links
-
-- 🌐 Official Website / GitHub Repo: [https://github.com/DASE-CogAI/Shuishan-ChineseEdu](https://github.com/DASE-CogAI/Shuishan-ChineseEdu)
+- 🌐 [https://github.com/DASE-CogAI/Shuishan-ChineseEdu](https://github.com/DASE-CogAI/Shuishan-ChineseEdu)
 
 ---
 
@@ -308,28 +288,13 @@
 
 <a name="en-us"></a>
 
-### 🚀 About Us
-
-Welcome to the **Shuishan ChineseEdu** initiative — a project under **DASE-CogAI**, dedicated to integrating cutting-edge **artificial intelligence technologies** (such as **Natural Language Processing**, **Knowledge Graphs**, and **Learner Modeling**) with innovative pedagogical methods.
- Our goal is to create an **intelligent, efficient, and culturally immersive learning ecosystem** for Chinese learners and educators worldwide.
-
-Our mission is to **break the barriers of language learning**, making Chinese acquisition easier, more engaging, and deeply personalized than ever before.
-
-### ✨Core Philosophy
-
-* **🤖 AI-Powered:**
-   Leverage AI to enable adaptive learning paths, intelligent pronunciation correction, AI tutoring, and personalized content recommendations.
-* **🏞️ Immersive Scenarios:**
-   Emphasize *learning by using*, offering interactive learning experiences grounded in real-life, academic, and professional contexts.
-* **🌐 Connected Ecosystem:**
-   Integrate all stages of learning — *study, practice, assessment, evaluation, and instruction* — to deliver a unified, data-driven solution for learners, teachers, and institutions alike.
 
 [![中文](https://img.shields.io/badge/语言-中文-red.svg)](./README_zh.md)
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](./README.md)
 
-### 🔗 Links
+### 🔗 Official Website
 
-- 🌐 Official Website / GitHub Repo: [https://github.com/DASE-CogAI/Shuishan-ChineseEdu](https://github.com/DASE-CogAI/Shuishan-ChineseEdu)
+- 🌐 [https://github.com/DASE-CogAI/Shuishan-ChineseEdu](https://github.com/DASE-CogAI/Shuishan-ChineseEdu)
 
 ---
 ## 🌏 Product Introduction
