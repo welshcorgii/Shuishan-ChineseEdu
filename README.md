@@ -89,10 +89,19 @@
 另一方面，为解决“学需”和“供给”不匹配的问题，平台打造了 **自适应学习引擎**，汇聚全域学习行为数据，实现 **细粒度学习者画像** 与 **动态学情评估**；  
 
 最终为每位中文学习者动态推送最适配的学习资源与路径， 确保内容的相关性与体系性，真正提升碎片化学习的实效与深度。 
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/产品简介.png" alt="DASE-CogAI" width="500"/>
+  </span>
+</p>
+<p align="center"><b>图1. 水杉中文 - 核心特色</b></p>
 
 ---
 
 ## 🧩 产品内容 
+
+### 📱 (一) APP端：学习服务
+
 
 <p align="center">
   <span style="display:inline-block; margin:0 10px;">
@@ -102,10 +111,10 @@
     <img src="image/1.2.png" alt="DASE-CogAI" width="150"/>
   </span>
 </p>
-<p align="center"><b>图1. 水杉中文 - 封面与首页</b></p>
+<p align="center"><b>图2. 水杉中文 - 封面与首页</b></p>
 
 
-### 🏞️ 场景沙盒：定制你的沉浸式中文世界  
+#### 🏞️ 场景沙盒：定制你的沉浸式中文世界  
 
 告别千篇一律的课本对话，**“水杉中文”** 通过「场景沙盒」为您构建高度定制、可自由探索的中文应用场景。  
 无论是模拟在咖啡馆点单、街边问路，还是在市场讨价还价，您都可以在定制化语境中进行 **“Vibe Language Learning”**。  
@@ -124,7 +133,7 @@
     <img src="image/2.3.png" alt="DASE-CogAI" width="150"/>
   </span>
 </p>
-<p align="center"><b>图2. 场景沙盒-场景定制</b></p>
+<p align="center"><b>图3. 场景沙盒-场景定制</b></p>
 <p align="center">
   <span style="display:inline-block; margin:0 10px;">
     <img src="image/3.1.png" alt="DASE-CogAI" width="150"/>
@@ -135,9 +144,9 @@
     <img src="image/3.3.png" alt="DASE-CogAI" width="150"/>
   </span>
 </p>
-<p align="center"><b>图3. 场景沙盒-学习路径动态生成</b></p>
+<p align="center"><b>图4. 场景沙盒-学习路径动态生成</b></p>
 
-### 🎯 主题闯关：在兴趣牵引下高效进阶  
+#### 🎯 主题闯关：在兴趣牵引下高效进阶  
 
 **“水杉中文”** 以引人入胜的主题闯关模式，重塑游戏化、激励性的中文学习路径。  
 您将跟随精心设计的剧情线，逐级解锁与 **生活、旅行、文化、科技** 等热门领域相关的内容关卡。  
@@ -152,7 +161,7 @@
 
 <p align="center">
   <span style="display:inline-block; margin:0 10px;">
-    <img src="image/4.1.png" alt="DASE-CogAI" width="150"/>
+    <img src="image/4.4.png" alt="DASE-CogAI" width="150"/>
   </span>
   <span style="display:inline-block; margin:0 10px;">
     <img src="image/4.2.png" alt="DASE-CogAI" width="150"/>
@@ -160,23 +169,23 @@
     <img src="image/4.3.png" alt="DASE-CogAI" width="150"/>
   </span>
 </p>
-<p align="center"><b>图4. 主题闯关-逐级主题化中文学习路径</b></p>
+<p align="center"><b>图5. 主题闯关-逐级主题化中文学习路径</b></p>
 <p align="center">
   <span style="display:inline-block; margin:0 10px;">
-    <img src="image/5.1.png" alt="DASE-CogAI" width="150"/>
+    <img src="image/5.1.png" alt="DASE-CogAI" width="120"/>
   </span>
   <span style="display:inline-block; margin:0 10px;">
-    <img src="image/5.2.png" alt="DASE-CogAI" width="150"/>
+    <img src="image/5.2.png" alt="DASE-CogAI" width="120"/>
     <span style="display:inline-block; margin:0 10px;">
-    <img src="image/5.3.png" alt="DASE-CogAI" width="150"/>
+    <img src="image/5.3.png" alt="DASE-CogAI" width="120"/>
   </span>
      <span style="display:inline-block; margin:0 10px;">
-    <img src="image/5.4.png" alt="DASE-CogAI" width="150"/>
+    <img src="image/5.4.png" alt="DASE-CogAI" width="120"/>
   </span>
 </p>
-<p align="center"><b>图5. 主题闯关-碎片化词汇练习、多技能习题练习 </b></p>
+<p align="center"><b>图6. 主题闯关-碎片化词汇练习、多技能习题练习 </b></p>
     
-### 🧰 智辅工具：即插即用的语言学习利器  
+#### 🧰 智辅工具：即插即用的语言学习利器  
 
 **“水杉中文”** 持续推出一系列 **智辅工具集（Smart Toolkit）**， 将复杂的 AI 能力封装为轻量、易用的模块，让最前沿的语言教育科技触手可及。  
 
@@ -197,17 +206,17 @@
     <img src="image/6.3.png" alt="DASE-CogAI" width="150"/>
   </span>
 </p>
-<p align="center"><b>图6. 主题闯关-碎片化词汇练习、多技能习题练习 </b></p>
+<p align="center"><b>图7. 智辅工具-文本改写、作文批改 </b></p>
 
-### ⚙️ 自适应学习引擎：数据驱动的专属学习管家  
+#### ⚙️ 自适应学习引擎：数据驱动的专属学习管家  
 
 作为 **“水杉中文”** 的智慧核心，自适应学习引擎通过 **全域数据追踪、学情评估与个性化推荐**， 为每位用户构建专属的 **自适应学习闭环**。
 
-#### 📊 全域行为数据追踪  
+##### 📊 全域行为数据追踪  
 
 平台持续采集您在「学、练、用」各环节的行为数据，进行融合分析与特征建模，形成完整的学习历程画像，为后续学习决策注入精准动力。
 
-#### 🧩 多粒度学情评估  
+##### 🧩 多粒度学情评估  
 
 依托大规模知识图谱，实现从 **字词掌握 → 主题知识 → 综合能力** 的多层次评估， 并通过可视化看板呈现，让学习者与系统都能精准定位薄弱环节。
 
@@ -221,9 +230,9 @@
     <img src="image/7.3.png" alt="DASE-CogAI" width="150"/>
   </span>
 </p>
-<p align="center"><b>图7. 学习引擎-多粒度学情评估</b></p>
+<p align="center"><b>图8. 学习引擎-多粒度学情评估</b></p>
     
-#### 💡 个性化学习推荐  
+##### 💡 个性化学习推荐  
 
 基于动态学情与兴趣偏好，引擎会动态重构引擎会实时调整您的学习内容与路径
 
@@ -242,14 +251,43 @@
     <img src="image/8.3.png" alt="DASE-CogAI" width="150"/>
   </span>
 </p>
-<p align="center"><b>图8. 学习引擎-全平台个性化推荐服务</b></p>
-    
+<p align="center"><b>图9. 学习引擎-全平台个性化推荐服务</b></p>
+
+### 💻 (二) 网页端：教学服务、管理服务
+#### 📚 一站式教学管理
+
+水杉中文还提供了兼顾 **“教、学、练、测、管”** 全链路的一站式中文教学平台。  
+五个环节环环相扣，覆盖了教与学的全场景。
+
+对于中文教师，平台支持以下功能：  
+- 🧾 **课程管理与班级管理**：支持灵活的课程与班级组织方式。  
+- 🧠 **教学辅助服务**：包括备课、授课场景下的习题生成、测验组卷、作业批改等功能。  
+- 🤖 **AI赋能工具库**：平台还提供全面的AI工具支持，使“教”与“管”更加高效，帮助教师释放创造力。  <p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/网页1.png" alt="DASE-CogAI" width="500"/>
+  </span>
+</p>
+<p align="center"><b>图10. 一站式教学管理服务</b></p>
+ <p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/网页2.png" alt="DASE-CogAI" width="500"/>
+  </span>
+</p>
+<p align="center"><b>图11. 教师备课-习题生成、测验组卷服务</b></p>
+
 ## 🖥️ 封面页
 <p align="center">
   <span style="display:inline-block; margin:0 10px;">
     <img src="image/9.png" alt="DASE-CogAI" width="150"/>
   </span>
+  <p align="center"><b>📱 APP端</b></p>
 </p>
+<p align="center">
+      <span style="display:inline-block; margin:0 10px;">
+    <img src="image/网页2.png" alt="DASE-CogAI" width="500"/>
+     
+</p>
+<p align="center"><b>💻 网页端</b></p>
 
 ## 🎬 产品视频
 
@@ -258,8 +296,12 @@
 <p align="center">
   <span style="display:inline-block; margin:0 10px;">
     <img src="image/10.png" alt="DASE-CogAI" width="150"/>
+
+  </span>
   </span>
 </p>
+
+
 
 # 英文版本
 
@@ -331,10 +373,16 @@ On one hand, leveraging **AIGC technology** and a **large-scale knowledge graph*
 On the other hand, to address the mismatch between **learning needs** and **content supply**,  the platform integrates an **adaptive learning engine** that aggregates global learning data to build **fine-grained learner profiles** and **real-time learning assessments**.q
 
 This enables **personalized, adaptive learning paths** for each learner, ensuring relevance, structure, and true learning efficiency.
-
+<p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/产品简介.png" alt="DASE-CogAI" width="500"/>
+  </span>
+</p>
+<p align="center"><b>Figure 1. Shuishan ChineseEdu – Core Features</b></p>
 ---
 
 ## 🧩 Product Content 
+### 📱 (一) APP端：学习服务 (Mobile App: Learning Services)  
 
 
 <p align="center">
@@ -345,9 +393,9 @@ This enables **personalized, adaptive learning paths** for each learner, ensurin
     <img src="image/1.2.png" alt="DASE-CogAI" width="150"/>
   </span>
 </p>
-<p align="center"><b>Figure 1. Shuishan ChineseEdu - Cover and Homepage</b></p>
+<p align="center"><b>Figure 2. Shuishan ChineseEdu - Cover and Homepage</b></p>
 
-### 🏞️ **Scenario Sandbox: Customize Your Immersive Chinese Learning**  
+#### 🏞️ **Scenario Sandbox: Customize Your Immersive Chinese Learning**  
 
 Say goodbye to repetitive textbook dialogues—**Shuishan ChineseEdu** builds a highly customized, freely explorable Chinese language environment through its Scenario Sandbox feature. Whether you’re ordering coffee at a café, asking for directions on the street, or bargaining at a local market, you can engage in **Vibe Language Learning** within authentic, personalized contexts.   
 
@@ -363,9 +411,9 @@ Our learning engine can dynamically generate appropriate learning paths based on
     <img src="image/2.3.png" alt="DASE-CogAI" width="150"/>
   </span>
 </p>
-<p align="center"><b>Figure 2. Scenario Sandbox – Scene Customization</b></p>
+<p align="center"><b>Figure 3. Scenario Sandbox – Scene Customization</b></p>
     
-### 🎯 **Thematic Challenges: Advancing Efficiently Through Interest-Driven Learning**  
+#### 🎯 **Thematic Challenges: Advancing Efficiently Through Interest-Driven Learning**  
 <p align="center">
   <span style="display:inline-block; margin:0 10px;">
     <img src="image/3.1.png" alt="DASE-CogAI" width="150"/>
@@ -376,7 +424,7 @@ Our learning engine can dynamically generate appropriate learning paths based on
     <img src="image/3.3.png" alt="DASE-CogAI" width="150"/>
   </span>
 </p>
-<p align="center"><b>Figure 3. Scenario Sandbox – Dynamic Learning Path Generation</b></p>
+<p align="center"><b>Figure 4. Scenario Sandbox – Dynamic Learning Path Generation</b></p>
 
 **Shuishan ChineseEdu** redefines gamified and motivational Chinese learning through its engaging thematic challenge mode, crafting a dynamic and immersive pathway for progress. As you follow a carefully designed storyline, you’ll unlock levels closely connected to popular fields such as **daily life, travel, culture, and technology**.  
 
@@ -398,21 +446,21 @@ This ensures your learning journey remains engaging, efficient, and free of redu
     <img src="image/4.3.png" alt="DASE-CogAI" width="150"/>
   </span>
 </p>
-<p align="center"><b>Figure 4. Thematic Missions – Step-by-Step Thematic Chinese Learning Path</b></p>
+<p align="center"><b>Figure 5. Thematic Missions – Step-by-Step Thematic Chinese Learning Path</b></p>
 <p align="center">
   <span style="display:inline-block; margin:0 10px;">
-    <img src="image/5.1.png" alt="DASE-CogAI" width="150"/>
+    <img src="image/5.1.png" alt="DASE-CogAI" width="120"/>
   </span>
   <span style="display:inline-block; margin:0 10px;">
-    <img src="image/5.2.png" alt="DASE-CogAI" width="150"/>
+    <img src="image/5.2.png" alt="DASE-CogAI" width="120"/>
     <span style="display:inline-block; margin:0 10px;">
-    <img src="image/5.3.png" alt="DASE-CogAI" width="150"/>
+    <img src="image/5.3.png" alt="DASE-CogAI" width="120"/>
   </span>
      <span style="display:inline-block; margin:0 10px;">
-    <img src="image/5.4.png" alt="DASE-CogAI" width="150"/>
+    <img src="image/5.4.png" alt="DASE-CogAI" width="120"/>
   </span>
 </p>
-<p align="center"><b>Figure 5. Thematic Missions – Fragmented Vocabulary Practice & Multi-Skill Exercises</b></p>
+<p align="center"><b>Figure 6. Thematic Missions – Fragmented Vocabulary Practice & Multi-Skill Exercises</b></p>
 
     ### 🧰 Intelligent Learning Tools: Plug-and-Play Assistants for Chinese Leaning
 
@@ -433,18 +481,18 @@ This ensures your learning journey remains engaging, efficient, and free of redu
     <img src="image/6.3.png" alt="DASE-CogAI" width="150"/>
   </span>
 </p>
-<p align="center"><b>Figure 6. Smart Learning Tools – Text Rewriting & Essay Review</b></p>
+<p align="center"><b>Figure 7. Smart Learning Tools – Text Rewriting & Essay Review</b></p>
 
 
-### ⚙️Adaptive Learning Engine: Your Data-Driven Personal Learning Concierge
+#### ⚙️Adaptive Learning Engine: Your Data-Driven Personal Learning Concierge
 
 The adaptive learning engine is the intelligent core of **Shuishan ChineseEdu**. By integrating **comprehensive behavior tracking**, **multi-granularity learning assessment**, and **personalized learning recommendations**, it constructs a **data-driven adaptive learning ecosystem** designed just for you.
 
-#### 📊**Comprehensive Behavior Tracking**
+##### 📊**Comprehensive Behavior Tracking**
 
 The platform continuously collects data from all your learning activities—study, practice, and application—and performs integrated analysis across these multi-source datasets. This process generates a coherent portrait of your learning journey, providing the engine with fresh, behavior-driven insights that fuel adaptive optimization.
 
-#### 🧩 **Multi-Granularity Learning Assessment**
+##### 🧩 **Multi-Granularity Learning Assessment**
 
 Powered by a large-scale knowledge graph, the engine conducts multi-layered diagnostic analysis—from mastery of individual characters and words, to thematic knowledge application, and ultimately to overall language competence. The results are displayed through a visualized dashboard, enabling both you and the system to precisely identify areas of weakness and target them efficiently.
 <p align="center">
@@ -457,9 +505,9 @@ Powered by a large-scale knowledge graph, the engine conducts multi-layered diag
     <img src="image/7.3.png" alt="DASE-CogAI" width="150"/>
   </span>
 </p>
-<p align="center"><b>Figure 7. Learning Engine – Multi-Granularity Learning Assessment</b></p>
+<p align="center"><b>Figure 8. Learning Engine – Multi-Granularity Learning Assessment</b></p>
     
-#### 💡 **Personalized Learning Recommendations**
+##### 💡 **Personalized Learning Recommendations**
 
 Based on your **real-time learning progress** and **interest preferences**, the engine dynamically reconstructs and adjusts your learning content and pathway:
 
@@ -478,8 +526,29 @@ the system ensures that every piece of content you encounter precisely aligns wi
     <img src="image/8.3.png" alt="DASE-CogAI" width="150"/>
   </span>
 </p>
-<p align="center"><b>Figure 8. Learning Engine – Cross-Platform Personalized Recommendation Service</b></p>
+<p align="center"><b>Figure 9. Learning Engine – Cross-Platform Personalized Recommendation Service</b></p>
     
+### 💻 (二) 网页端：教学服务、管理服务 (Web Platform: Teaching & Management Services)   
+
+#### 📚 One-Stop Teaching Management
+
+For **Chinese language teachers**, the platform provides an integrated environment that supports every aspect of teaching and learning.
+
+- 🧾 **Course & Class Management:** Manage courses and classes with flexible and efficient tools.  
+- 🧠 **Teaching Assistance:** Supports lesson preparation and instruction through exercise generation, test paper compilation, and homework grading.  
+- 🤖 **AI-Powered Toolkit:** A comprehensive suite of AI tools that enhances both “teaching” and “management,” empowering educators to focus on creativity and innovation.  
+ <p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/网页1.png" alt="DASE-CogAI" width="500"/>
+  </span>
+</p>
+<p align="center"><b>Figure 10. One-Stop Teaching Management Service</b></p>
+ <p align="center">
+  <span style="display:inline-block; margin:0 10px;">
+    <img src="image/网页2.png" alt="DASE-CogAI" width="500"/>
+  </span>
+</p>
+<p align="center"><b>Figure 11. Lesson Preparation – Exercise Generation and Test Paper Assembly Services</b></p>
 ## 🖥️ Cover Page
 
 <p align="center">
@@ -487,6 +556,13 @@ the system ensures that every piece of content you encounter precisely aligns wi
     <img src="image/9.png" alt="DASE-CogAI" width="150"/>
   </span>
 </p>
+<p align="center"><b>📱 Mobile App</b></p>
+<p align="center">
+    <span style="display:inline-block; margin:0 10px;">
+    <img src="image/网页3.png" alt="DASE-CogAI" width="500"/>
+  </span>
+</p>
+<p align="center"><b>💻 Web Platform</b></p>
 
 ## 🎬 Product Video
 
