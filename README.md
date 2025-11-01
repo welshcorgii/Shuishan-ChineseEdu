@@ -17,10 +17,14 @@
 <p align="center">
   <strong>选择语言 (Select Language):</strong>
   <br />
-  <a href="https://github.com/welshcorgii/Shuishan-ChineseEdu/edit/main/README.md#-%E5%AE%98%E7%BD%91%E5%9C%B0%E5%9D%80"><strong>简体中文</strong></a> | 
-  <a href="https://github.com/welshcorgii/Shuishan-ChineseEdu/edit/main/README.md#-official-website"><strong>English</strong></a>
+  <a href="#zh-cn"><strong>简体中文</strong></a> | 
+  <a href="#en-us"><strong>English</strong></a>
 </p>
 
+---
+
+<a name="zh-cn"></a>
+## 简体中文
 
 ---
 
@@ -284,9 +288,9 @@
 
 
 
-# 英文版本
 
 <a name="en-us"></a>
+## English
 
 
 [![中文](https://img.shields.io/badge/语言-中文-red.svg)](./README_zh.md)
