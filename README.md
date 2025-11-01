@@ -17,8 +17,8 @@
 <p align="center">
   <strong>选择语言 (Select Language):</strong>
   <br />
-  <a href="🔗 官网地址"><strong>简体中文</strong></a> | 
-  <a href="🔗 Official Website"><strong>English</strong></a>
+  <a href="https://github.com/welshcorgii/Shuishan-ChineseEdu/edit/main/README.md#-%E5%AE%98%E7%BD%91%E5%9C%B0%E5%9D%80"><strong>简体中文</strong></a> | 
+  <a href="https://github.com/welshcorgii/Shuishan-ChineseEdu/edit/main/README.md#-official-website"><strong>English</strong></a>
 </p>
 
 
